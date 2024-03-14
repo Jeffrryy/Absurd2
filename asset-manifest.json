@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Absurd2/static/css/main.c9990423.css",
+    "main.js": "/Absurd2/static/js/main.b668a35f.js",
+    "static/media/jpg": "/Absurd2/static/media/ea208a9dcfd4c21ad3303fb19cb6d899.29753e2ff002a906c72e.jpg",
+    "index.html": "/Absurd2/index.html",
+    "main.c9990423.css.map": "/Absurd2/static/css/main.c9990423.css.map",
+    "main.b668a35f.js.map": "/Absurd2/static/js/main.b668a35f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9990423.css",
+    "static/js/main.b668a35f.js"
+  ]
+}
